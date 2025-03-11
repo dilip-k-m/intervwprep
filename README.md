@@ -1,4 +1,4 @@
-# Airflow and NiFi Interview Questions (4-20)
+# Airflow and NiFi Interview Questions
 
 Let me provide detailed answers to your first three questions about Apache Airflow:
 
